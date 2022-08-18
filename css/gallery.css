@@ -1,0 +1,15 @@
+.galleryCard{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: aquamarine;
+    margin-top: 1em;
+    border: 3px solid #888;
+    border-radius: 10px;
+}
+
+.galleryCard img{
+    width: 400px;
+    border: 3px solid #888;
+    border-radius: 10px;
+}

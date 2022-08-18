@@ -1,5 +1,6 @@
 const myGallery = document.getElementById("app");
 const mySelect = document.getElementById("animals");
+myGallery.classList = "galleryCard";
 
 // events
 mySelect.addEventListener("change", animalSelected);
